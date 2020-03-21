@@ -1,0 +1,32 @@
+#!/usr/bin/python
+
+import os
+import sys
+import uuid
+from util import load, name, vs_data
+
+if( len(sys.argv) == 2 ):
+    args = sys.argv[1].split(',')
+    nl = int(args[0])
+    nd = int(args[1])
+else:
+    nl = 18
+    nd = 101
+
+f = str( uuid.uuid1() )
+d = load()
+d1 = d[nl - 1]
+d2 = d[nd - 1]
+n1 = name( d1 )
+n2 = name( d2 )
+vs_data( "images/" + f + ".line", d1 )
+vs_data( "images/" + f + ".points", d2 )
+os.system( 'gnuplot -e "set term png; set grid; set output \'images/%s.png\'; plot \'images/%s.line\' with lines title \'%s\', \'images/%s.points\' with points title \'%s\'"' % (f,f,n1,f,n2) )
+
+print( "Content-Type: text/html" )
+print( "" )
+print( "<html>" )
+print( "<body>" )
+print( "<img src='images/%s.png'></img>" % (f) )
+print( "</body>" )
+print( "</html>" )

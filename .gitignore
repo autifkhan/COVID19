@@ -1,3 +1,5 @@
 *.png
 codes.txt
 confirmed
+images
+*.pyc

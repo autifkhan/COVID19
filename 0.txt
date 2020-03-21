@@ -1,0 +1,388 @@
+2 - Thailand
+3 - Japan
+4 - Singapore
+5 - Nepal
+6 - Malaysia
+7 - Canada - British Columbia
+8 - Australia - New South Wales
+9 - Australia - Victoria
+10 - Australia - Queensland
+11 - Cambodia
+12 - Sri Lanka
+13 - Germany
+14 - Finland
+15 - United Arab Emirates
+16 - Philippines
+17 - India
+18 - Italy
+19 - Sweden
+20 - Spain
+21 - Australia - South Australia
+22 - Belgium
+23 - Egypt
+24 - Australia - From Diamond Princess
+25 - Lebanon
+26 - Iraq
+27 - Oman
+28 - Afghanistan
+29 - Bahrain
+30 - Kuwait
+31 - Algeria
+32 - Croatia
+33 - Switzerland
+34 - Austria
+35 - Israel
+36 - Pakistan
+37 - Brazil
+38 - Georgia
+39 - Greece
+40 - North Macedonia
+41 - Norway
+42 - Romania
+43 - Estonia
+44 - San Marino
+45 - Belarus
+46 - Iceland
+47 - Lithuania
+48 - Mexico
+49 - New Zealand
+50 - Nigeria
+51 - Australia - Western Australia
+52 - Ireland
+53 - Luxembourg
+54 - Monaco
+55 - Qatar
+56 - Ecuador
+57 - Azerbaijan
+58 - Armenia
+59 - Dominican Republic
+60 - Indonesia
+61 - Portugal
+62 - Andorra
+63 - Australia - Tasmania
+64 - Latvia
+65 - Morocco
+66 - Saudi Arabia
+67 - Senegal
+68 - Argentina
+69 - Chile
+70 - Jordan
+71 - Ukraine
+72 - Hungary
+73 - Australia - Northern Territory
+74 - Liechtenstein
+75 - Poland
+76 - Tunisia
+77 - Bosnia and Herzegovina
+78 - Slovenia
+79 - South Africa
+80 - Bhutan
+81 - Cameroon
+82 - Colombia
+83 - Costa Rica
+84 - Peru
+85 - Serbia
+86 - Slovakia
+87 - Togo
+88 - Malta
+89 - Martinique
+90 - Bulgaria
+91 - Maldives
+92 - Bangladesh
+93 - Paraguay
+94 - Canada - Ontario
+95 - Canada - Alberta
+96 - Canada - Quebec
+97 - Albania
+98 - Cyprus
+99 - Brunei
+100 - US - Washington
+101 - US - New York
+102 - US - California
+103 - US - Massachusetts
+104 - US - Diamond Princess
+105 - US - Grand Princess
+106 - US - Georgia
+107 - US - Colorado
+108 - US - Florida
+109 - US - New Jersey
+110 - US - Oregon
+111 - US - Texas
+112 - US - Illinois
+113 - US - Pennsylvania
+114 - US - Iowa
+115 - US - Maryland
+116 - US - North Carolina
+117 - US - South Carolina
+118 - US - Tennessee
+119 - US - Virginia
+120 - US - Arizona
+121 - US - Indiana
+122 - US - Kentucky
+123 - US - District of Columbia
+124 - US - Nevada
+125 - US - New Hampshire
+126 - US - Minnesota
+127 - US - Nebraska
+128 - US - Ohio
+129 - US - Rhode Island
+130 - US - Wisconsin
+131 - US - Connecticut
+132 - US - Hawaii
+133 - US - Oklahoma
+134 - US - Utah
+135 - Burkina Faso
+136 - Holy See
+137 - Mongolia
+138 - Panama
+139 - US - Kansas
+140 - US - Louisiana
+141 - US - Missouri
+142 - US - Vermont
+143 - US - Alaska
+144 - US - Arkansas
+145 - US - Delaware
+146 - US - Idaho
+147 - US - Maine
+148 - US - Michigan
+149 - US - Mississippi
+150 - US - Montana
+151 - US - New Mexico
+152 - US - North Dakota
+153 - US - South Dakota
+154 - US - West Virginia
+155 - US - Wyoming
+156 - China - Hubei
+157 - Iran
+158 - Korea South
+159 - France - France
+160 - China - Guangdong
+161 - China - Henan
+162 - China - Zhejiang
+163 - China - Hunan
+164 - China - Anhui
+165 - China - Jiangxi
+166 - China - Shandong
+167 - Cruise Ship - Diamond Princess
+168 - China - Jiangsu
+169 - China - Chongqing
+170 - China - Sichuan
+171 - China - Heilongjiang
+172 - Denmark - Denmark
+173 - China - Beijing
+174 - China - Shanghai
+175 - China - Hebei
+176 - China - Fujian
+177 - China - Guangxi
+178 - China - Shaanxi
+179 - China - Yunnan
+180 - China - Hainan
+181 - China - Guizhou
+182 - China - Tianjin
+183 - China - Shanxi
+184 - China - Gansu
+185 - China - Hong Kong
+186 - China - Liaoning
+187 - China - Jilin
+188 - Czechia
+189 - China - Xinjiang
+190 - China - Inner Mongolia
+191 - China - Ningxia
+192 - Taiwan*
+193 - Vietnam
+194 - Russia
+195 - China - Qinghai
+196 - China - Macau
+197 - Moldova
+198 - Bolivia
+199 - Denmark - Faroe Islands
+200 - France - St Martin
+201 - Honduras
+202 - United Kingdom - Channel Islands
+203 - Canada - New Brunswick
+204 - China - Tibet
+205 - Congo (Kinshasa)
+206 - Cote d'Ivoire
+207 - France - Saint Barthelemy
+208 - Jamaica
+209 - Turkey
+210 - United Kingdom - Gibraltar
+249 - US - Bennington County VT
+250 - US - Carver County MN
+251 - US - Charlotte County FL
+252 - US - Cherokee County GA
+253 - US - Collin County TX
+254 - US - Jefferson County KY
+255 - US - Jefferson Parish LA
+256 - US - Shasta County CA
+257 - US - Spartanburg County SC
+258 - US - Harrison County KY
+259 - US - Johnson County IA
+260 - US - Berkshire County MA
+261 - US - Davidson County TN
+262 - US - Douglas County OR
+263 - US - Fresno County CA
+264 - US - Harford County MD
+265 - US - Hendricks County IN
+266 - US - Hudson County NJ
+267 - US - Johnson County KS
+268 - US - Kittitas County WA
+269 - US - Manatee County FL
+270 - US - Marion County OR
+271 - US - Okaloosa County FL
+272 - US - Polk County GA
+273 - US - Riverside County CA
+274 - US - Shelby County TN
+275 - US - St. Louis County MO
+276 - US - Suffolk County NY
+277 - US - Ulster County NY
+278 - US - Volusia County FL
+279 - US - Fairfax County VA
+280 - US - Rockingham County NH
+281 - US - Washington D.C.
+282 - US - Montgomery County PA
+283 - US - Alameda County CA
+284 - US - Broward County FL
+285 - US - Lee County FL
+286 - US - Pinal County AZ
+287 - US - Rockland County NY
+288 - US - Saratoga County NY
+289 - US - Charleston County SC
+290 - US - Clark County WA
+291 - US - Cobb County GA
+292 - US - Davis County UT
+293 - US - El Paso County CO
+294 - US - Honolulu County HI
+295 - US - Jackson County OR 
+296 - US - Jefferson County WA
+297 - US - Kershaw County SC
+298 - US - Klamath County OR
+299 - US - Madera County CA
+300 - US - Pierce County WA
+301 - US - Tulsa County OK
+302 - US - Douglas County CO
+303 - US - Providence County RI
+304 - US - Chatham County NC
+305 - US - Delaware County PA
+306 - US - Douglas County NE
+307 - US - Fayette County KY
+308 - US - Marion County IN
+309 - US - Middlesex County MA
+310 - US - Nassau County NY
+311 - US - Ramsey County MN
+312 - US - Washoe County NV
+313 - US - Wayne County PA
+314 - US - Yolo County CA
+315 - US - Santa Clara County CA
+316 - US - Clark County NV
+317 - US - Fort Bend County TX
+318 - US - Grant County WA
+319 - US - Santa Rosa County FL
+320 - US - Williamson County TN
+321 - US - New York County NY
+322 - US - Montgomery County MD
+323 - US - Suffolk County MA
+324 - US - Denver County CO
+325 - US - Summit County CO
+326 - US - Bergen County NJ
+327 - US - Harris County TX
+328 - US - San Francisco County CA
+329 - US - Contra Costa County CA
+330 - US - Orange County CA
+331 - US - Norfolk County MA
+332 - US - Maricopa County AZ
+333 - US - Wake County NC
+334 - US - Westchester County NY
+335 - US - Grafton County NH
+336 - US - Hillsborough FL
+337 - US - Placer County CA
+338 - US - San Mateo CA
+339 - US - Sonoma County CA
+340 - US - Umatilla OR
+341 - US - Fulton County GA
+342 - US - Washington County OR
+343 - US - Snohomish County WA
+344 - US - Humboldt County CA
+345 - US - Sacramento County CA
+346 - US - San Diego County CA
+347 - US - San Benito CA
+348 - US - Los Angeles CA
+349 - US - King County WA
+350 - US - Cook County IL
+402 - Cuba
+403 - Guyana
+404 - Australia - Australian Capital Territory
+405 - United Kingdom - United Kingdom
+406 - Kazakhstan
+407 - France - French Polynesia
+408 - Canada - Manitoba
+409 - Canada - Saskatchewan
+410 - Ethiopia
+411 - Sudan
+412 - Guinea
+413 - Canada - Grand Princess
+414 - Kenya
+415 - Antigua and Barbuda
+416 - US - Alabama
+417 - Uruguay
+418 - Ghana
+419 - US - Puerto Rico
+420 - Namibia
+421 - Seychelles
+422 - Trinidad and Tobago
+423 - Venezuela
+424 - Eswatini
+425 - Gabon
+426 - Guatemala
+427 - Mauritania
+428 - Rwanda
+429 - Saint Lucia
+430 - Saint Vincent and the Grenadines
+431 - Suriname
+432 - France - French Guiana
+433 - US - Guam
+434 - Kosovo
+435 - Canada - Newfoundland and Labrador
+436 - Canada - Prince Edward Island
+437 - Central African Republic
+438 - Congo (Brazzaville)
+439 - Equatorial Guinea
+440 - France - Mayotte
+441 - Uzbekistan
+442 - Netherlands - Netherlands
+443 - Canada - Nova Scotia
+444 - France - Guadeloupe
+445 - Benin
+446 - Liberia
+447 - Netherlands - Curacao
+448 - Somalia
+449 - Tanzania
+450 - US - Virgin Islands
+451 - United Kingdom - Cayman Islands
+452 - France - Reunion
+453 - Barbados
+454 - Montenegro
+455 - Kyrgyzstan
+456 - Mauritius
+457 - Netherlands - Aruba
+458 - Zambia
+459 - Djibouti
+460 - Gambia The
+461 - United Kingdom - Montserrat
+462 - Bahamas The
+463 - Denmark - Greenland
+464 - France - New Caledonia
+465 - United Kingdom - Bermuda
+466 - Chad
+467 - El Salvador
+468 - Fiji
+469 - Nicaragua
+470 - Madagascar
+471 - Haiti
+472 - Angola
+473 - Cabo Verde
+474 - Netherlands - Sint Maarten
+475 - Niger
+476 - Papua New Guinea
+477 - United Kingdom - Isle of Man
+478 - Zimbabwe

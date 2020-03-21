@@ -1,0 +1,24 @@
+6 - Malaysia
+13 - Germany
+18 - Italy
+19 - Sweden
+20 - Spain
+22 - Belgium
+33 - Switzerland
+34 - Austria
+41 - Norway
+61 - Portugal
+100 - US - Washington
+101 - US - New York
+102 - US - California
+156 - China - Hubei
+157 - Iran
+158 - Korea South
+159 - France - France
+160 - China - Guangdong
+161 - China - Henan
+162 - China - Zhejiang
+163 - China - Hunan
+172 - Denmark - Denmark
+405 - United Kingdom - United Kingdom
+442 - Netherlands - Netherlands

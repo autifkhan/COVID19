@@ -1,32 +1,9 @@
-#!/bin/bash
-
-fname=`uuid -v1`
-
-l=`cut -d',' -f1 <<< $1`
-d=`cut -d',' -f2 <<< $1`
-
-if [[ "x" == "x$l" ]]
-then
-    l=18
-fi
-
-if [[ "x" == "x$d" ]]
-then
-    d=103
-fi
-
-name1=`./name.py $l`
-name2=`./name.py $d`
-
-`./generate.gnuplot.data.py $l > /tmp/line`
-`./generate.gnuplot.data.py $d > /tmp/points`
-
-`gnuplot -e "set term png; set grid; set output \"$fname.png\"; plot '/tmp/line' with lines title \"$name1\", '/tmp/points' with points title \"$name2\""`
-
-echo "Content-Type: text/html"
-echo ""
-echo "<html>"
-echo "<body>"
-echo "<img src='$fname.png'></img>"
-echo "</body>"
-echo "</html>"
+<html>
+<body>
+<a href="vs.py.html">NY vs Italy</a><br/>
+<a href="1000.txt">Codes for areas > 1000 cases</a><br/>
+<a href="500.txt">Codes for areas > 500 cases</a><br/>
+<a href="100.txt">Codes for areas > 100 cases</a><br/>
+<a href="0.txt">Codes for areas > 0 cases</a><br/>
+</body>
+</html>

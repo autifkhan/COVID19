@@ -1,13 +1,19 @@
 #!/usr/bin/python
 
-import sys
+from util import load, name
 
-with open( 'confirmed' ) as f:
-    a = f.readlines()
+def codes( d, n ):
+    f = open( str(n) + ".txt", "w" )
+    for i in range( 1, len( d ) ):
+        for j in range( 4, len( d[i] ) ):
+            if( int( d[i][j] ) > n ):
+                f.write( "%d - %s\n" % (i+1, name( d[i] ) ) )
+                break
+    f.close()
 
-for i in range( 1, len( a ) ):
-    d = a[i].split(',')
-    if d[0]:
-        print "%d : %s - %s" % ( i+1, d[1], d[0] )
-    else:
-        print "%d : %s" % ( i+1, d[1] )
+d = load()
+codes( d, 0 )
+codes( d, 100 )
+codes( d, 500 )
+codes( d, 1000 )
+
