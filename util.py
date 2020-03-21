@@ -32,7 +32,24 @@ def vs_data( f_, d ):
             i = int( i_)
             if i and int(i) > 100:
                 n = n + 1
-                f.write( "%d, %d\n" % (n,i) )
+                f.write( "%d %d\n" % (n,i) )
         except:
             pass
+    f.close()
+
+def growth( f_, d ):
+    f = open( f_, "w" )
+    n = 0
+    started = False
+    for i in range( 5, len( d ) ):
+        if( int(d[i]) > 100 ):
+            started = True
+        else:
+            continue
+        if( not started ):
+            continue
+
+        n = n+1
+        g = int(d[i]) - int(d[i-1])
+        f.write( "%d %d\n" % (n, g) )
     f.close()
